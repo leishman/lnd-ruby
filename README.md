@@ -10,3 +10,9 @@ stub.list_invoices(Lnrpc::ListInvoiceRequest.new)
 
 # example call to generate invoice
 ```
+
+## License and Credit
+
+MIT License.
+
+The `rpc.proto` file and much of the code comes directly from https://github.com/lightningnetwork/lnd/blob/master/docs/grpc/ruby.md.
